@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/aarsh/Documents'
+let g:netrw_dirhist_7='/Users/aarsh'
+let g:netrw_dirhist_6='/Users'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_4='/Users'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_2='/Volumes'
+let g:netrw_dirhist_1='/'
+let g:netrw_dirhist_0='/Volumes'
+let g:netrw_dirhist_9='/Volumes/Macintosh HD'
