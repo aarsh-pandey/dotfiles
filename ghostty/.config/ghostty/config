@@ -1,0 +1,9 @@
+cursor-style = block
+adjust-cursor-thickness = 3
+cursor-style-blink = true
+shell-integration-features = no-cursor
+font-family = SF Mono
+font-size = 17
+font-thicken = true
+theme = Gruvbox Dark Hard
+window-padding-x = 6
