@@ -50,3 +50,6 @@ zstyle ':completion:*:default' list-colors "no=00:fi=00:di=01;34:ln=01;36:pi=40;
 # Smart typo correction (1 error per 3 characters)
 zstyle ':completion:*' completer _complete _approximate
 zstyle ':completion:*:approximate:*' max-errors 'reply=($(( ($#PREFIX+$#SUFFIX)/3 )) )'
+
+# Bind Shift+Tab to move backward through completion choices
+bindkey '^[[Z' reverse-menu-complete
